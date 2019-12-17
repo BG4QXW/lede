@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 # 
 
-name: OpenWrt.X86
+name: OpenWrt.X86.1217
 
 on:
   schedule:
